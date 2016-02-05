@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0; 
+    background-color: black;
+   
+}
+
+p{
+    color: #30ff30;
+    text-align: center;
+    visibility: hidden;
+}
+
+#p5Container{
+    transition-duration: 2s;
+    display:block
+}
+
+#sceneContainer{
+    transition-duration: 2s;
+    background: green;
+    display: none;
+}
+
